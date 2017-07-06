@@ -1,0 +1,7 @@
+Next, Tim Berners-Lee’s work at CERN, where he developed the hypermedia system known as World Wide Web, added another layer of abstraction to the existing structure.
+This abstraction provided an "addressing" scheme, a unique identifier (the Universal
+Resource Locator), which could tell anyone "where to go and how to get there" for any
+piece of data within the Web. While useful, it lacked dimensionality; there’s no
+there within the web, and the only type of navigation permissible (other than surfing) is
+by direct reference. In other words, I can only tell you how to get to the VRML Forum
+home page by saying, "http://www.wired.com/", which is not human-centered data.
